@@ -8,7 +8,4 @@ This script has been tested to run successfully on RHEL8/7/6, CentOS, SLES/SLED 
 
 This is a small, light weight script which makes use of native Linux utilities to get the required details and doesn't need much space.
 
-For more details check the below web link :-
-https://www.simplylinuxfaq.com/2015/05/How-To-Check-Health-Status-Of-Linux-System.html
 
-                                                                    Updated on : 16th October 2021
